@@ -6,10 +6,15 @@ About SwiftGear
 At SwiftGear, our journey began with a simple yet powerful passion – the love of sports. We believe in the transformative power of sports and the impact it can have on individuals and communities alike. Founded by dedicated athletes and sports enthusiasts, our mission is to provide top-quality athletic gear and sportswear to empower athletes of all levels.
 Features
 
-    WordPress CMS: Utilizes the open-source and free WordPress platform for easy content management.
-    Elementor Page Builder: Integrated with the premium version of Elementor for seamless design and customization.
-    Blocksy Theme: Features the versatile and responsive Blocksy theme to ensure a great user experience.
-    Secure Payment Gateways: Supports secure transactions through PayPal, Razorpay, and PayU.
+Features and Benefits
+
+    Extensive Product Range: Wide variety of sports gear and accessories for different sports and athletic levels.
+    Top-Quality Products: Sourced from reputable brands ensuring durability and performance.
+    Athlete-Approved: Products selected and tested by athletes to meet high standards.
+    User-Friendly Design: Easy navigation and a seamless shopping experience with the Blocksy theme and Elementor page builder.
+    Secure Payment Options: Multiple payment gateways including PayPal, Razorpay, and PayU for safe transactions.
+    Responsive Customer Support: Dedicated support team to assist with any inquiries or issues.
+    Community Focused: Part of our profits go back to supporting sports communities and initiatives.
 
 Installation
 
